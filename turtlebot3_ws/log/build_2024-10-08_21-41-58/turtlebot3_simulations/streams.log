@@ -1,0 +1,41 @@
+[0.210s] Invoking command in '/home/ros12/turtlebot3_ws/build/turtlebot3_simulations': AMENT_PREFIX_PATH=/home/ros12/turtlebot3_ws/install/turtlebot3_gazebo:/home/ros12/turtlebot3_ws/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ros12/turtlebot3_ws/install/turtlebot3_gazebo:/home/ros12/turtlebot3_ws/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake /home/ros12/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_simulations -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros12/turtlebot3_ws/install/turtlebot3_simulations
+[0.944s] -- The C compiler identification is GNU 11.4.0
+[1.322s] -- The CXX compiler identification is GNU 11.4.0
+[1.498s] -- Detecting C compiler ABI info
+[1.771s] -- Detecting C compiler ABI info - done
+[1.779s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.785s] -- Detecting C compile features
+[1.810s] -- Detecting C compile features - done
+[1.833s] -- Detecting CXX compiler ABI info
+[2.130s] -- Detecting CXX compiler ABI info - done
+[2.146s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.146s] -- Detecting CXX compile features
+[2.148s] -- Detecting CXX compile features - done
+[2.642s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.581s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.089s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.869s] -- Configuring done
+[4.869s] -- Generating done
+[4.883s] -- Build files have been written to: /home/ros12/turtlebot3_ws/build/turtlebot3_simulations
+[4.886s] Invoked command in '/home/ros12/turtlebot3_ws/build/turtlebot3_simulations' returned '0': AMENT_PREFIX_PATH=/home/ros12/turtlebot3_ws/install/turtlebot3_gazebo:/home/ros12/turtlebot3_ws/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ros12/turtlebot3_ws/install/turtlebot3_gazebo:/home/ros12/turtlebot3_ws/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake /home/ros12/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_simulations -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros12/turtlebot3_ws/install/turtlebot3_simulations
+[4.891s] Invoking command in '/home/ros12/turtlebot3_ws/build/turtlebot3_simulations': AMENT_PREFIX_PATH=/home/ros12/turtlebot3_ws/install/turtlebot3_gazebo:/home/ros12/turtlebot3_ws/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ros12/turtlebot3_ws/install/turtlebot3_gazebo:/home/ros12/turtlebot3_ws/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake --build /home/ros12/turtlebot3_ws/build/turtlebot3_simulations -- -j2 -l2
+[5.009s] Invoked command in '/home/ros12/turtlebot3_ws/build/turtlebot3_simulations' returned '0': AMENT_PREFIX_PATH=/home/ros12/turtlebot3_ws/install/turtlebot3_gazebo:/home/ros12/turtlebot3_ws/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ros12/turtlebot3_ws/install/turtlebot3_gazebo:/home/ros12/turtlebot3_ws/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake --build /home/ros12/turtlebot3_ws/build/turtlebot3_simulations -- -j2 -l2
+[5.122s] Invoking command in '/home/ros12/turtlebot3_ws/build/turtlebot3_simulations': AMENT_PREFIX_PATH=/home/ros12/turtlebot3_ws/install/turtlebot3_gazebo:/home/ros12/turtlebot3_ws/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ros12/turtlebot3_ws/install/turtlebot3_gazebo:/home/ros12/turtlebot3_ws/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake --install /home/ros12/turtlebot3_ws/build/turtlebot3_simulations
+[5.152s] -- Install configuration: ""
+[5.155s] -- Execute custom install script
+[5.163s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/ament_index/resource_index/package_run_dependencies/turtlebot3_simulations
+[5.204s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/ament_index/resource_index/parent_prefix_path/turtlebot3_simulations
+[5.253s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.sh
+[5.278s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.dsv
+[5.301s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.sh
+[5.322s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.dsv
+[5.345s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.bash
+[5.372s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.sh
+[5.398s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.zsh
+[5.426s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.dsv
+[5.451s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/package.dsv
+[5.473s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/ament_index/resource_index/packages/turtlebot3_simulations
+[5.494s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig.cmake
+[5.515s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig-version.cmake
+[5.536s] -- Symlinking: /home/ros12/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/package.xml
+[5.564s] Invoked command in '/home/ros12/turtlebot3_ws/build/turtlebot3_simulations' returned '0': AMENT_PREFIX_PATH=/home/ros12/turtlebot3_ws/install/turtlebot3_gazebo:/home/ros12/turtlebot3_ws/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ros12/turtlebot3_ws/install/turtlebot3_gazebo:/home/ros12/turtlebot3_ws/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake --install /home/ros12/turtlebot3_ws/build/turtlebot3_simulations
